@@ -1,0 +1,27 @@
+#tetris{
+    margin:0 auto;
+}
+div{
+    margin:0;
+    padding:0;
+}
+.row{
+    margin:0;
+    padding:0;
+}
+table{
+    border-collapse: collapse;
+}
+.grid{
+    background-color: #fff;
+    border: 1px solid #ddd;
+    margin:0;
+    padding:0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.block{
+    background-color:#999;
+}
